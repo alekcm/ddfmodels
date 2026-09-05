@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "object_identity": "ClientDeltaBuild0.package::000000000003F182::01661233:00000000:549EFB51F39F7630",
+  "package": {
+    "size": 1865023338,
+    "mtime_ns": 1781302832767700900
+  },
+  "options": {
+    "obj": true,
+    "fbx": true,
+    "png": true,
+    "unity_mat": true,
+    "pipeline": "hdrp",
+    "colliders": true,
+    "prefab": false,
+    "dynamic": true,
+    "all_lods": true,
+    "no_cas": true,
+    "extract_geom": false,
+    "coarse_collider_face_threshold": 20000,
+    "coarse_collider_vertex_threshold": 8000,
+    "coarse_collider_max_parts": 12,
+    "coarse_collider_target_faces": 15000
+  },
+  "required_files": [
+    "Prop_Utensil_Chopsticks_lod00_g00.fbx",
+    "Prop_Utensil_Chopsticks_lod00_g00.obj",
+    "Prop_Utensil_Chopsticks_lod00_g00_swatch00_material.mat",
+    "Prop_Utensil_Chopsticks_lod00_g00_swatch01_material.mat",
+    "Prop_Utensil_Chopsticks_lod00_g00_swatch02_material.mat",
+    "Prop_Utensil_Chopsticks_lod00_g00_swatch03_material.mat",
+    "Prop_Utensil_Chopsticks_lod00_g00_swatch04_material.mat",
+    "Prop_Utensil_Chopsticks_lod01_g00.fbx",
+    "Prop_Utensil_Chopsticks_lod01_g00.obj",
+    "Prop_Utensil_Chopsticks_tex00.png",
+    "Prop_Utensil_Chopsticks_tex01.png",
+    "Prop_Utensil_Chopsticks_tex02.png",
+    "Prop_Utensil_Chopsticks_tex03.png",
+    "Prop_Utensil_Chopsticks_tex04.png"
+  ],
+  "completed_at": 1784572427,
+  "legacy_adopted": false
+}
